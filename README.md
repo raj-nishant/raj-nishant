@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj</h1>
-<h3 align="center">A passionate frontend/Full Stack developer from India</h3>
+<h3 align="center">A passionate Frontend/Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently mastering **MERN Stack**
 
 - 📫 How to reach me **nishant.work11@gmail.com**
 
